@@ -59,7 +59,10 @@ function Checker.fortytwo(self: Checker): boolean
         res = self.value == 42
     end
 
-    return self._nt and not res or res
+    return
+        if self._nt
+        then not res
+        else res
 end
 
 --[=[
