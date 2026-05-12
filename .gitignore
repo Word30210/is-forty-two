@@ -3,7 +3,7 @@
 .pesde
 
 # moonwave build output
-build*
+docs*
 
 # multitarget build output
 dist*
