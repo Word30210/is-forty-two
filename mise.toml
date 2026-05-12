@@ -1,0 +1,4 @@
+[tools]
+"github:evaera/moonwave" = "latest"
+"github:luau-lang/lute" = "latest"
+"github:pesde-pkg/pesde" = "latest"

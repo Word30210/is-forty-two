@@ -1,0 +1,13 @@
+# pesde packages
+*_packages
+.pesde
+
+# moonwave build output
+build*
+
+# multitarget build output
+dist*
+
+# rbxm files
+*.rbxm
+*.lock.rbxm
